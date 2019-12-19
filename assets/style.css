@@ -303,3 +303,7 @@ p {
   .card-img-wrap:hover:after {
 	opacity: 1;
   }
+
+  .card{
+	  border-radius:15px !important;
+  }
